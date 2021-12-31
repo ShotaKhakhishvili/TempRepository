@@ -23,8 +23,9 @@ a:link{
 }
 a:hover{
     color : rgb(4, 51, 126);
-    touch-action: cross-slide-y;
+    font-size: 125%;
 }
 a:visited{
-    color : rgb(128, 0, 128)
+    color : rgb(128, 0, 128);
+    font-size: 20%;
 }
