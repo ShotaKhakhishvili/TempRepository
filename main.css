@@ -23,6 +23,7 @@ a:link{
 }
 a:hover{
     color : rgb(4, 51, 126);
+    touch-action: cross-slide-y;
 }
 a:visited{
     color : rgb(128, 0, 128)
