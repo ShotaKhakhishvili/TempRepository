@@ -17,6 +17,9 @@ h1{
     background-position-x: 20%;
     font-size : 50px;
 }
+a{
+    text-decoration: none;
+}
 a:link{
     color :  rgb(6,69,173);
     font-size: 125%;
