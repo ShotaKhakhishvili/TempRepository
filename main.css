@@ -3,7 +3,7 @@ body{
 
 }
 p{
-    font-size: 30px; 
+    font-size: 25px; 
     font-family: monospace;
     color : rgb(152, 255 ,152);  
     text-align: center;
@@ -15,7 +15,7 @@ h1{
     text-align:center;
     background-color: rgb(110, 110, 110); 
     background-position-x: 20%;
-    font-size : 225%;
+    font-size : 35px;
 }
 a{
     font-size: 125%;
