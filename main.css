@@ -16,3 +16,6 @@ h1{
     background-color: rgb(110, 110, 110); 
     background-position-x: 20%;
 }
+a{
+    font-size: 150%;
+}
