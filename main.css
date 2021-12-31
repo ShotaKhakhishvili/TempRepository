@@ -1,5 +1,5 @@
 body{
-    background-color: brown;
+    background-color: gray;
 
 }
 p{
@@ -7,7 +7,6 @@ p{
     font-family: monospace;
     color : rgb(152, 255 ,152);  
     text-align: center;
-    background-color: gray;
 }
 h1{
     font-family: Georgia, 'Times New Roman', Times, serif; 
