@@ -29,3 +29,6 @@ a:visited{
     color : rgb(128, 0, 128);
     font-size: 20%;
 }
+a:active{
+    color : rgb(243, 62, 62);
+}
