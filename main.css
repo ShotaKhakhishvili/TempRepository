@@ -1,5 +1,7 @@
 body{
     background-color: gray;
+    margin-left : 0px;
+    margin-top : 3px;
 
 }
 p{
@@ -19,6 +21,7 @@ h1{
 }
 a{
     text-decoration: none;
+    
 }
 a:link{
     color :  rgb(6,69,173);
@@ -29,9 +32,18 @@ a:hover{
     font-size: 125%;
 }
 a:visited{
-    color : rgb(128, 0, 128);
+    color : rgb(160, 9, 160);
     font-size: 20%;
 }
 a:active{
     color : rgb(231, 21, 21);
+}
+img{
+    border : 3px solid sandybrown;
+    margin-top: 5px;
+    margin-bottom: 0px;
+    padding-left: 3px;
+    padding-right: 3px;
+    padding-bottom: 3px;
+    padding-top: 3px;
 }
